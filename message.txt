@@ -1,0 +1,6 @@
+Hello receiver@mail.com!
+
+This is an email sent with Python in a script that creates a mailing client.
+
+Regards,
+sender@mail.com
